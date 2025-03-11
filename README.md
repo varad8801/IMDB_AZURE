@@ -49,9 +49,6 @@ Power BI connects to Azure Synapse Analytics to visualize trends, insights, and 
 - Implement real-time data streaming.
 - Automate monitoring and alerting.
 
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
